@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2018-11-20T11:23:50.302+09:00
+  initializedAtString: 2018-11-20T10:38:42.153+09:00
+  entries:
+  - path: Defence Plus\Assets\Materials\NormalMat.mat
+    fullPath: D:\github\DP-Project\Defence Plus\Assets\Materials\NormalMat.mat
+    projectPath: Assets\Materials\NormalMat.mat
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Defence Plus\Assets\Materials\PressedMat.mat
+    fullPath: D:\github\DP-Project\Defence Plus\Assets\Materials\PressedMat.mat
+    projectPath: Assets\Materials\PressedMat.mat
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Defence Plus\Assets\Scenes\Game.unity
+    fullPath: D:\github\DP-Project\Defence Plus\Assets\Scenes\Game.unity
+    projectPath: Assets\Scenes\Game.unity
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Defence Plus\Assets\Scripts\enums.cs
+    fullPath: D:\github\DP-Project\Defence Plus\Assets\Scripts\enums.cs
+    projectPath: Assets\Scripts\enums.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Defence Plus\Assets\Scripts\Puzzle.cs
+    fullPath: D:\github\DP-Project\Defence Plus\Assets\Scripts\Puzzle.cs
+    projectPath: Assets\Scripts\Puzzle.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Defence Plus\Assets\Scripts\PuzzleManager.cs
+    fullPath: D:\github\DP-Project\Defence Plus\Assets\Scripts\PuzzleManager.cs
+    projectPath: Assets\Scripts\PuzzleManager.cs
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Defence Plus\ProjectSettings\QualitySettings.asset
+    fullPath: D:\github\DP-Project\Defence Plus\ProjectSettings\QualitySettings.asset
+    projectPath: ProjectSettings\QualitySettings.asset
+    originalPath: 
+    status: 3
+    staged: 0
